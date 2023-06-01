@@ -1,19 +1,14 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
 <a name="readme-top"></a>
 
+<div align="center">
+
+ # Kieng Philemon
+
+  <h3><b>Kieng Philemon readme templates</b></h3>
+
+</div>
+
+<a name="readme-top"></a>
 
 
 # 📗 Table of Contents
@@ -38,12 +33,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-
-
-# Hello Microverse 
-
-This project is a Hello world repository. No complex coding is required for this exercise. The goal is to master all of the tools and best learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well.
-
+# Hello Microverse
+This project is a Hello Microverse repository. No complex coding is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
 1- HTML
 2- css
 3- linters
@@ -55,25 +46,10 @@ This project is a Hello world repository. No complex coding is required for this
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -103,7 +79,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-In order to run this project you need:
 
 1- web browser
 2- git-syn
@@ -134,13 +109,7 @@ Run this command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -159,21 +128,13 @@ You can deploy this project using:
 
 Kieng Philemon
 
+
+
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/phylah-kieng-949520120/)
+- GitHub: [@githubhandle](https://github.com/KiengPhyl/Hello-world.git)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,14 +176,17 @@ I would like to thank Microvers and my coding partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
